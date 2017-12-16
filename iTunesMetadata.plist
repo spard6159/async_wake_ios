@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIRequiredDeviceCapabilities</key>
+	<dict>
+		<key>armv7</key>
+		<true/>
+	</dict>
+	<key>appleId</key>
+	<string>bwel@cracked.by</string>
+	<key>purchaseDate</key>
+	<date>2016-05-05T05:05:05Z</date>
+	<key>artistId</key>
+	<integer>285608316</integer>
+	<key>artistName</key>
+	<string>omz:software</string>
+	<key>bundleDisplayName</key>
+	<string>Pythonista</string>
+	<key>bundleShortVersionString</key>
+	<string>3.0</string>
+	<key>bundleVersion</key>
+	<string>300018</string>
+	<key>copyright</key>
+	<string>© 2016 omz:software</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>fileExtension</key>
+	<string>.app</string>
+	<key>gameCenterEnabled</key>
+	<false/>
+	<key>gameCenterEverEnabled</key>
+	<false/>
+	<key>genre</key>
+	<string>Productivity</string>
+	<key>genreId</key>
+	<integer>6007</integer>
+	<key>itemId</key>
+	<integer>1085978097</integer>
+	<key>itemName</key>
+	<string>Pythonista 3</string>
+	<key>kind</key>
+	<string>software</string>
+	<key>playlistName</key>
+	<string>omz:software</string>
+	<key>product-type</key>
+	<string>ios-app</string>
+	<key>rating</key>
+	<dict>
+		<key>content</key>
+		<string>Advisory.NO.UNRESTRICTED_WEB_ACCESS and Advisory.NO.GAMBLING_CONTESTS</string>
+		<key>label</key>
+		<string>4+</string>
+		<key>rank</key>
+		<integer>100</integer>
+		<key>system</key>
+		<string>itunes-games</string>
+	</dict>
+	<key>releaseDate</key>
+	<string>2016-06-14T05:17:21Z</string>
+	<key>s</key>
+	<integer>143441</integer>
+	<key>softwareIcon57x57URL</key>
+	<string>http://a1048.phobos.apple.com/us/r30/Purple60/v4/42/13/c2/4213c261-27d3-ec7a-f971-897b4453759c/CRV_AP_150x90.lsr</string>
+	<key>softwareIconNeedsShine</key>
+	<false/>
+	<key>softwareSupportedDeviceIds</key>
+	<array>
+		<integer>9</integer>
+		<integer>2</integer>
+		<integer>4</integer>
+	</array>
+	<key>softwareVersionBundleId</key>
+	<string>com.omz-software.Pythonista3</string>
+	<key>softwareVersionExternalIdentifier</key>
+	<integer>816497390</integer>
+	<key>softwareVersionExternalIdentifiers</key>
+	<array>
+		<integer>816497390</integer>
+	</array>
+	<key>vendorId</key>
+	<integer>11239</integer>
+	<key>versionRestrictions</key>
+	<integer>16843008</integer>
+</dict>
+</plist>
+
